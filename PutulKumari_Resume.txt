@@ -1,0 +1,77 @@
+Resume 
+
+Putul Kumari
+Mobile: (+91) 9693915487
+E-mail: theputulkumari@gmail.com
+LinkedIn Profile: https://www.linkedin.com/in/putul-kumari/
+
+
+Career Objective:
+Take on challenging position at a growth-oriented firm, where I can continue to utilize and
+develop my skills and contribute to company at the highest possible levels all the time.
+
+Tools and Technologies:
+● Programming Languages : Html,Css, JavaScript , React JS, C, Core JAVA, Python
+● Web Application Server : AWS S3
+• OS : Windows, Linux
+• Other Tools : VS code Editor
+
+Projects:
+Title:Computer Service Management System
+Software Requirement:
+1. OS:Windows XP
+2. PHP Triad(PHP,MYSQL,Apache,and PHPMYAdmin)
+
+Title:Fees Tracking System Website
+Software Requirement:
+1. OS:Windows XP
+2. Java,Servlet,Orecle ,Html,Css,JavaScript
+
+
+Certifications:
+Full Stack Web Development course completion certificate by Prinston Smart Engineers.
+Python course completion certificate by Udemy.
+
+Areas of Interest:
+Full Stack Web Development,DBMS.
+
+Education:
+Post Graduate 
+College: Jyoti Nivas College Autonomous,Post Graduate Center ,Bangalore
+2023-2025
+MSc Computer Science
+Pursuing
+
+DEGREE
+college: The Oxford College Of Science Bangalore 
+2020-2023
+Bachelor Of Computer Application(BCA)
+Percentage:70.07%
+
+PUC
+School/College:High School Shahpur Sidhawalia,Gopalganj
+2018-2020(PCM)
+Percentage:60%
+
+SSLC
+School/College:High School Shahpur Sidhawalia,Gopalganj
+2017-2018
+Percentage:58.8%
+
+Languages:
+English
+Hindi
+Bhojpuri
+
+Hobbies:
+Yoga and playing Indoor Games.
+
+Declaration:
+I hereby declare that the information furnished above is true to the best of my knowledge
+
+
+Place: Bangalore
+Putul Kumari 
+
+
+ 
