@@ -59,7 +59,7 @@ School/College:High School Shahpur Sidhawalia,Gopalganj
 Percentage:58.8%
 
 Languages:
-English,Hindi,Bhojpuri
+English,Hindi and Bhojpuri
 
 Hobbies:
 Yoga and playing Indoor Games.
